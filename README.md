@@ -1,7 +1,7 @@
 <center> <h2>Hi, I am Dennis 👋 </h2> </center>
 
 - 👀 I’m interested in coding, music, studying and fitness
-- 📚 I’m currently learning kotlin and html
+- 📚 I’m currently learning java and rust
 - ⚡ Fun fact: I was introduced into coding by my aunt
 
 <!---
