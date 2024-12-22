@@ -1,4 +1,4 @@
-<center> <h2>Hi, I am dmehlmann 👋 </h2> </center>
+<center> <h2>Hi, I'm Dennis 👋 </h2> </center>
 
 - 👀 I’m interested in coding, music, studying and fitness
 - 📚 I’m currently learning java and rust
